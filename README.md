@@ -39,6 +39,7 @@ Lie back and read the Ts & Cs to see how they harvest your data.
 - [Amazon CodeCommit](https://aws.amazon.com/codecommit/) - AWS CodeCommit is a fully-managed source control service that makes it easy for companies to host secure and highly scalable private Git repositories.
 - [Canonical Launchpad](https://launchpad.net/) - Launchpad is a software collaboration platform.
 - [Planio](https://plan.io/subversion-hosting-and-git-hosting/) - Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories. `Subversion`
+- [Beanstalk](https://beanstalkapp.com/) - A complete workflow to write, review & deploy code. `Subversion`
 
 Full credit for the initial idea and list goes to [sam_goody on HN][1].
 
