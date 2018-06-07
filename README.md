@@ -1,10 +1,8 @@
 # Awesome Github Alternatives
 
-Following on from the numerous discussions on Hacker News over Github alternatives, here's YANAL.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a list of alternatives to Github, that by default offer Git management in some way.
-
-It is assumed that each of these offer Git source control, if they also offer another type it will be tagged so.
+This is a list of alternatives to Github, that by default offer Git management in some way. If they also offer another type it will be tagged so.
 
 ## Self-hosted
 
@@ -37,7 +35,13 @@ Lie back and read the Ts & Cs to see how they harvest your data.
 * [sr.ht][19] - This is an open source software suite for managing your software development projects. Managed instances of our services are provided here for your convenience. Registration is currently closed to the public. Please reach out to Drew DeVault <sir@cmpwn.com> if you'd like to participate in early development and testing. 
 * [Sourceforge][18] - The Complete Open-Source Software Platform.
 
-Full credit for the initial concept goes to [sam_goody on HN][1].
+Full credit for the initial idea goes to [sam_goody on HN][1].
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ian Channing](https://ianchanning.com) has waived all copyright and related or neighboring rights to this work.
 
 [1]: https://news.ycombinator.com/item?id=17254141
 [2]: https://about.gitlab.com/
