@@ -8,7 +8,7 @@ This is a list of alternatives to Github, that by default offer Git management i
 
 Install it yourself on your own server for fun and profit.
 
-- [Gitlab](https://about.gitlab.com/) - GitLab is the first single application for all stages of the DevOps lifecycle. `MIT` `Ruby / Go`
+- [GitLab](https://about.gitlab.com/) - GitLab is the first single application for all stages of the DevOps lifecycle. `MIT` `Ruby / Go`
 - [Gitea](https://gitea.io/en-US/) - Gitea is a community managed fork of Gogs, lightweight code hosting solution written in Go and published under the MIT license. `MIT` `Go`
 - [Gogs](https://gogs.io/) - A painless self-hosted Git service. `MIT` `Go`
 - [Phabricator](https://phacility.com/phabricator/) - Every application your project needs, all in one tool. `Apache-2.0` `PHP` `Mercurial` `Subversion`
@@ -21,17 +21,23 @@ Install it yourself on your own server for fun and profit.
 - [Pagure](https://pagure.io/pagure) - Pagure is a git-centered forge, python based using pygit2. `GPL-2.0+` `Python`
 - [Fossil](https://fossil-scm.org) - Fossil is a simple, high-reliability, distributed software configuration management system. `BSD-2-Clause` `C` `Mercurial`
 - [Gitolite](http://gitolite.com/gitolite/) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. `GPL-1.0` `Perl`
+- [Tuleap](https://www.tuleap.org) - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL. `GPL-2.0+` `PHP` `Subversion`
+- [Review Board](https://www.reviewboard.org) - Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software. Review Board provides basic support for git. If you have a central "official" git repository, Review Board will work well for you. `MIT` `Python`
+- [sr.ht](https://sr.ht/) - This is an open source software suite for managing your software development projects. Managed instances of our services are provided here for your convenience. Registration is currently closed to the public. Please reach out to Drew DeVault if you'd like to participate in early development and testing. `MIT` `Python`
 
 ## Hosted
 
 Lie back and read the Ts & Cs to see how they harvest your data.
 
-- [Gitlab](https://about.gitlab.com/) - See above
+- [GitLab](https://about.gitlab.com/) - See above
+- [Phabricator](https://phacility.com/phabricator/) - See above
+- [Keybase](https://keybase.io/blog/encrypted-git-for-everyone) - Every now and then you want to make a repository that's private. Not for an open source project, but for other stuff: research, writing a novel, family history, or a community's private files.
+- [Tuleap](https://www.tuleap.org) - See above
 - [Atlassian BitBucket](https://bitbucket.org/) - From best-in-class integration with Jira to a better code review, Bitbucket Cloud gives your team everything you need to build, track, and deploy your software better. `Mercurial`
 - [Google Cloud Repositories](https://cloud.google.com/source-repositories/) - Google Cloud Source Repositories provides Git version control to support collaborative development of any application or service, including those that run on App Engine and Compute Engine.
 - [Amazon CodeCommit](https://aws.amazon.com/codecommit/) - AWS CodeCommit is a fully-managed source control service that makes it easy for companies to host secure and highly scalable private Git repositories.
 - [Canonical Launchpad](https://launchpad.net/) - Launchpad is a software collaboration platform.
-- [Phabricator](https://phacility.com/phabricator/) - See above
+- [Planio](https://plan.io/subversion-hosting-and-git-hosting/) - Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories. `Subversion`
 
 Full credit for the initial idea and list goes to [sam_goody on HN][1].
 
