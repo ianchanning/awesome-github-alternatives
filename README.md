@@ -24,6 +24,7 @@ Install it yourself on your own server for fun and profit.
 - [Tuleap](https://www.tuleap.org) - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL. `GPL-2.0+` `PHP` `Subversion`
 - [Review Board](https://www.reviewboard.org) - Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software. Review Board provides basic support for git. If you have a central "official" git repository, Review Board will work well for you. `MIT` `Python`
 - [sr.ht](https://drewdevault.com/2018/06/05/Should-you-move-to-sr.ht.html) - This is an open source software suite for managing your software development projects. Managed instances of our services are provided here for your convenience. Registration is currently closed to the public. Please reach out to Drew DeVault if you'd like to participate in early development and testing. `MIT` `Python`
+- [Gerrit Code Review](https://www.gerritcodereview.com/) - Gerrit provides web based code review and repository management for the Git version control system. `Apache-2.0` `Java`
 
 ## Hosted
 
