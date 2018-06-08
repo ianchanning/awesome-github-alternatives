@@ -19,7 +19,7 @@ Install it yourself on your own server for fun and profit.
 - [Allura](https://allura.apache.org/) - Apache Allura is an open source implementation of a software forge, a web site that manages source code repositories, bug reports, discussions, wiki pages, blogs, and more for any number of individual projects. `Apache-2.0` `Python` `Mercurial` `Subversion`
 - [GitSSB](https://git.scuttlebot.io/%25n92DiQh7ietE%2BR%2BX%2FI403LQoyf2DtR3WQfCkDKlheQU%3D.sha256) - Git repos on secure-scuttlebutt (SSB). [`Fair`][3] `JavaScript`
 - [Pagure](https://pagure.io/pagure) - Pagure is a git-centered forge, python based using pygit2. `GPL-2.0+` `Python`
-- [Fossil](https://fossil-scm.org) - Fossil is a simple, high-reliability, distributed software configuration management system. `BSD-2-Clause` `C` `Mercurial`
+- [Fossil](https://fossil-scm.org) - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes. `BSD-2-Clause` `C` `~Git~` `Fossil`
 - [Gitolite](http://gitolite.com/gitolite/) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. `GPL-1.0` `Perl`
 - [Tuleap](https://www.tuleap.org) - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL. `GPL-2.0+` `PHP` `Subversion`
 - [Review Board](https://www.reviewboard.org) - Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software. Review Board provides basic support for git. If you have a central "official" git repository, Review Board will work well for you. `MIT` `Python`
