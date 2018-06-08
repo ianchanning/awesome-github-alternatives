@@ -1,8 +1,8 @@
-# Awesome Github Alternatives
+# Awesome GitHub Alternatives
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a list of alternatives to Github, that by default offer Git management in some way. If they also offer another type it will be tagged so. All self-hosted options are free and open source, using licenses that are compatible with the GPL.
+This is a list of alternatives to GitHub, that by default offer Git management in some way. If they also offer another type it will be tagged so. All self-hosted options are free and open source, using licenses that are compatible with the GPL.
 
 ## Self-hosted
 
@@ -22,7 +22,7 @@ Install it yourself on your own server for fun and profit.
 <br>`AGPL-3.0` `Python` `Mercurial` `Subversion`
 - [Kallithea](https://kallithea-scm.org/) (fork of Rhodecode) - Kallithea, a member project of Software Freedom Conservancy, is a GPLv3'd, Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
 <br>`GPL-3.0` `Python` `Mercurial` `Subversion`
-- [GitPrep](http://gitprep.yukikimoto.com/) - GitPrep is Github clone. You can install portable github system into unix/linux. You can create users and repositories without limitation. This is free software. 
+- [GitPrep](http://gitprep.yukikimoto.com/) - GitPrep is GitHub clone. You can install portable github system into unix/linux. You can create users and repositories without limitation. This is free software. 
 <br>[`Perl`][2] `Perl`
 - [Allura](https://allura.apache.org/) - Apache Allura is an open source implementation of a software forge, a web site that manages source code repositories, bug reports, discussions, wiki pages, blogs, and more for any number of individual projects.
 <br>`Apache-2.0` `Python` `Mercurial` `Subversion`
