@@ -23,11 +23,11 @@ Install it yourself on your own server for fun and profit.
 - [Kallithea](https://kallithea-scm.org/) (fork of Rhodecode) - Kallithea, a member project of Software Freedom Conservancy, is a GPLv3'd, Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
 <br>`GPL-3.0` `Python` `Mercurial` `Subversion`
 - [GitPrep](http://gitprep.yukikimoto.com/) - GitPrep is Github clone. You can install portable github system into unix/linux. You can create users and repositories without limitation. This is free software. 
-[`Perl`][2] `Perl`
+<br>[`Perl`][2] `Perl`
 - [Allura](https://allura.apache.org/) - Apache Allura is an open source implementation of a software forge, a web site that manages source code repositories, bug reports, discussions, wiki pages, blogs, and more for any number of individual projects.
 <br>`Apache-2.0` `Python` `Mercurial` `Subversion`
 - [GitSSB](https://git.scuttlebot.io/%25n92DiQh7ietE%2BR%2BX%2FI403LQoyf2DtR3WQfCkDKlheQU%3D.sha256) - Git repos on secure-scuttlebutt (SSB). 
-[`Fair`][3] `JavaScript`
+<br>[`Fair`][3] `JavaScript`
 - [Pagure](https://pagure.io/pagure) - Pagure is a git-centered forge, python based using pygit2.
 <br>`GPL-2.0+` `Python`
 - [Fossil](https://fossil-scm.org) - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
