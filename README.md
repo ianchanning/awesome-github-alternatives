@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Emoji_u1f44b.svg" width="300" alt="Hand waving" />
+<!--
+Copyright © 2018 Google Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific
+language governing permissions and limitations under the License.
+-->
+</div>
+
 # Awesome GitHub Alternatives
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -41,6 +49,8 @@ Install it yourself on your own server for fun and profit.
 - [sr.ht](https://drewdevault.com/2018/06/05/Should-you-move-to-sr.ht.html) - This is an open source software suite for managing your software development projects. Managed instances of our services are provided here for your convenience. Registration is currently closed to the public. Please reach out to Drew DeVault if you'd like to participate in early development and testing.
 <br>`MIT` `Python`
 - [Gerrit Code Review](https://www.gerritcodereview.com/) - Gerrit provides web based code review and repository management for the Git version control system.
+<br>`Apache-2.0` `Java`
+- [Gitblit](http://gitblit.com/) - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.  It's designed primarily as a tool for small workgroups who want to host centralized repositories.
 <br>`Apache-2.0` `Java`
 
 ## Hosted
