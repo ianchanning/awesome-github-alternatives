@@ -6,13 +6,7 @@ language governing permissions and limitations under the License.
 -->
 </div>
 
-# Awesome GitHub Alternatives
-
-<div align="right">
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-</div>
+# Awesome GitHub Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a list of alternatives to GitHub, that by default offer Git management in some way. If they also offer another type it will be tagged so. All self-hosted options are free and open source, using licenses that are compatible with the GPL.
 
