@@ -63,8 +63,8 @@ Install it yourself on your own server for fun and profit.
 * [Pagure](https://pagure.io/pagure) - Pagure is a git-centered forge, python based using pygit2 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
 * [Review Board](https://www.reviewboard.org) - Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software. Review Board provides basic support for git. If you have a central "official" git repository, Review Board will work well for you [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 * [Rhodecode](https://rhodecode.com/) - `+Mercurial` `+Subversion` Centralized control for distributed repositories. Mercurial, Git, and Subversion under a single roof [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0).
-  * [Kallithea](https://kallithea-scm.org/) (fork of Rhodecode) - `+Mercurial` `+Subversion` Kallithea, a member project of Software Freedom Conservancy, is a GPLv3'd, Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0).
-* [Sourcehut](https://sourcehut.org/) - This is an open source software suite for managing your software development projects. Managed instances of our services are provided here for your convenience. Registration is currently closed to the public. Please reach out to Drew DeVault if you'd like to participate in early development and testing [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+  * [Kallithea](https://kallithea-scm.org/) - `+Mercurial` `+Subversion` (fork of Rhodecode) Kallithea, a member project of Software Freedom Conservancy, is a GPLv3'd, Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0).
+* [Sourcehut](https://sourcehut.org/) - `+Mercurial` (previously called sr.ht) This is an open source software suite for managing your software development projects. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
 
 ### Ruby
 
@@ -87,7 +87,8 @@ Lie back and read the Terms & Conditions to see how they harvest your data.
 * [Keybase](https://keybase.io/blog/encrypted-git-for-everyone) - Every now and then you want to make a repository that's private. Not for an open source project, but for other stuff: research, writing a novel, family history, or a community's private files.
 * [Phabricator](https://phacility.com/phabricator/) - Every application your project needs, all in one tool.
 * [Planio](https://plan.io/subversion-hosting-and-git-hosting/) - `+Subversion` Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories.
-* [Tuleap](https://github.com/Enalean/tuleap) - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
+* [sr.ht](https://sr.ht) - `+Mercurial` Welcome to meta.sr.ht! This is the account, billing, and security management hub for sourcehut, the hacker's forge.
+* [Tuleap](https://github.com/Enalean/tuleap) - `+Subversion` Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
 
 Full credit for the initial idea and list goes to [sam_goody on HN](https://news.ycombinator.com/item?id=17254141).
 
