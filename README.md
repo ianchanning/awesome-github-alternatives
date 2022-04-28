@@ -35,6 +35,7 @@ Install it yourself on your own server for fun and profit.
 
 * [Gerrit Code Review](https://www.gerritcodereview.com/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) - Gerrit provides web based code review and repository management for the Git version control system.
 * [Gitblit](http://gitblit.com/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) - Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.  It's designed primarily as a tool for small workgroups who want to host centralized repositories.
+* [OneDev](https://github.com/theonedev/onedev)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - OneDev is a Self-hosted Git Server with Kanban and CI/CD
 
 ### JavaScript
 
