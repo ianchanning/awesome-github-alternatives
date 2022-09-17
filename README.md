@@ -4,6 +4,8 @@ This is a list of alternatives to GitHub, that by default offer Git management i
 
 ## Contents
 
+* [Peer-to-Peer](#peer-to-peer)
+  * [Rust](#rust)
 * [Self-hosted](#self-hosted)
   * [C](#c)
   * [Go](#go)
@@ -16,13 +18,21 @@ This is a list of alternatives to GitHub, that by default offer Git management i
   * [Scala](#scala)
 * [Hosted](#hosted)
 
+## Peer-to-Peer
+
+Fully independend from centralized hosts. Peer-to-Peer, purely hosted on each clients device. 
+
+### Rust
+
+* [Radicle](https://radicle.xyz/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) - Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git.
+
 ## Self-hosted
 
 Install it yourself on your own server for fun and profit.
 
 ### C
 
-* [Fossil](https://fossil-scm.org)  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) **No Git** **+Fossil** - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
+* [Fossil](https://fossil-scm.org) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) **No Git** **+Fossil** - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
 
 ### Go
 
