@@ -4,8 +4,6 @@ This is a list of alternatives to GitHub, that by default offer Git management i
 
 ## Contents
 
-* [Peer-to-Peer](#peer-to-peer)
-  * [Rust](#rust)
 * [Self-hosted](#self-hosted)
   * [C](#c)
   * [Go](#go)
@@ -17,14 +15,8 @@ This is a list of alternatives to GitHub, that by default offer Git management i
   * [Ruby](#ruby)
   * [Scala](#scala)
 * [Hosted](#hosted)
-
-## Peer-to-Peer
-
-Fully independend from centralized hosts. Peer-to-Peer, purely hosted on each clients device. 
-
-### Rust
-
-* [Radicle](https://radicle.xyz/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) - Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git.
+* [Peer-to-Peer](#peer-to-peer)
+  * [Rust](#rust)
 
 ## Self-hosted
 
@@ -93,6 +85,15 @@ Lie back and read the Terms & Conditions to see how they harvest your data.
 * [Planio](https://plan.io/subversion-hosting-and-git-hosting/) **+Subversion** - Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories.
 * [sr.ht](https://sr.ht) **+Mercurial** - Welcome to meta.sr.ht! This is the account, billing, and security management hub for sourcehut, the hacker's forge.
 * [Tuleap](https://github.com/Enalean/tuleap) **+Subversion** - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
+
+## Peer-to-Peer
+
+Fully independent from centralised hosts. Peer-to-Peer, hosted on each clients device. 
+
+### Rust
+
+* [Radicle](https://radicle.xyz/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) - Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git.
+
 
 Full credit for the initial idea and list goes to [sam_goody on HN](https://news.ycombinator.com/item?id=17254141).
 
