@@ -15,6 +15,8 @@ This is a list of alternatives to GitHub, that by default offer Git management i
   * [Ruby](#ruby)
   * [Scala](#scala)
 * [Hosted](#hosted)
+* [Peer-to-Peer](#peer-to-peer)
+  * [Rust](#rust)
 
 ## Self-hosted
 
@@ -22,7 +24,7 @@ Install it yourself on your own server for fun and profit.
 
 ### C
 
-* [Fossil](https://fossil-scm.org)  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) **No Git** **+Fossil** - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
+* [Fossil](https://fossil-scm.org) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) **No Git** **+Fossil** - Fossil is a simple, high-reliability, distributed software configuration management system.  In addition to doing distributed version control like Git and Mercurial, Fossil also supports bug tracking, wiki, and technotes.
 
 ### Go
 
@@ -83,6 +85,15 @@ Lie back and read the Terms & Conditions to see how they harvest your data.
 * [Planio](https://plan.io/subversion-hosting-and-git-hosting/) **+Subversion** - Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories.
 * [sr.ht](https://sr.ht) **+Mercurial** - Welcome to meta.sr.ht! This is the account, billing, and security management hub for sourcehut, the hacker's forge.
 * [Tuleap](https://github.com/Enalean/tuleap) **+Subversion** - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
+
+## Peer-to-Peer
+
+Fully independent from centralised hosts. Peer-to-Peer, hosted on each clients device. 
+
+### Rust
+
+* [Radicle](https://radicle.xyz/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) - Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git.
+
 
 Full credit for the initial idea and list goes to [sam_goody on HN](https://news.ycombinator.com/item?id=17254141).
 
