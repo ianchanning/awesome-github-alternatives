@@ -50,7 +50,7 @@ Install it yourself on your own server for fun and profit.
 
 ### PHP
 
-* [Phabricator](https://phacility.com/phabricator/) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) **+Mercurial** **+Subversion** - Every application your project needs, all in one tool.
+* ~~[Phabricator](https://phacility.com/phabricator/) [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) **+Mercurial** **+Subversion** - Every application your project needs, all in one tool.~~ Effective June 1, 2021: Phabricator is no longer actively maintained.
 * [Tuleap](https://github.com/Enalean/tuleap) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) **+Subversion** - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
 
 ### Python
