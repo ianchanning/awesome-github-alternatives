@@ -81,7 +81,7 @@ Lie back and read the Terms & Conditions to see how they harvest your data.
 * [GitLab](https://about.gitlab.com/) - GitLab is the first single application for all stages of the DevOps lifecycle.
 * [Google Cloud Repositories](https://cloud.google.com/source-repositories/) - Google Cloud Source Repositories provides Git version control to support collaborative development of any application or service, including those that run on App Engine and Compute Engine.
 * [Keybase](https://keybase.io/blog/encrypted-git-for-everyone) - Every now and then you want to make a repository that's private. Not for an open source project, but for other stuff: research, writing a novel, family history, or a community's private files.
-* [Phabricator](https://phacility.com/phabricator/) - Every application your project needs, all in one tool.
+* ~~[Phabricator](https://phacility.com/phabricator/) - Every application your project needs, all in one tool.~~ Effective June 1, 2021: Phabricator is no longer actively maintained.
 * [Planio](https://plan.io/subversion-hosting-and-git-hosting/) **+Subversion** - Everybody likes Planio, but developers really love it! Not only because everything is well structured and easy to access, but also because your Planio account comes with unlimited hosted Git and Subversion repositories.
 * [sr.ht](https://sr.ht) **+Mercurial** - Welcome to meta.sr.ht! This is the account, billing, and security management hub for sourcehut, the hacker's forge.
 * [Tuleap](https://github.com/Enalean/tuleap) **+Subversion** - Tuleap Open ALM is a Libre and Open Source software forge crafted in PHP/MySQL.
