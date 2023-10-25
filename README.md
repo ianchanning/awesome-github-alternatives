@@ -28,6 +28,7 @@ Install it yourself on your own server for fun and profit.
 
 ### Go
 
+* [Forgejo](https://forgejo.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - Forgejo is a self-hosted lightweight software forge.
 * [GitLab](https://about.gitlab.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - GitLab is the first single application for all stages of the DevOps lifecycle.
 * [Gitea](https://gitea.io/en-US/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - Gitea is a community managed fork of Gogs, lightweight code hosting solution written in Go and published under the MIT license.
 * [Gogs](https://gogs.io/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - A painless self-hosted Git service.
