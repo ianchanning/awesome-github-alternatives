@@ -77,6 +77,7 @@ Lie back and read the Terms & Conditions to see how they harvest your data.
 * [Atlassian BitBucket](https://bitbucket.org/) **+Mercurial** - From best-in-class integration with Jira to a better code review, Bitbucket Cloud gives your team everything you need to build, track, and deploy your software better.
 * [Beanstalk](https://beanstalkapp.com/) **+Subversion** - A complete workflow to write, review & deploy code.
 * [Canonical Launchpad](https://launchpad.net/) - Launchpad is a software collaboration platform.
+* [Codeberg](https://codeberg.org/) - Codeberg is a collaboration platform providing Git hosting and services for free and open source software, content and projects. 
 * [GitLab](https://about.gitlab.com/) - GitLab is the first single application for all stages of the DevOps lifecycle.
 * [Google Cloud Repositories](https://cloud.google.com/source-repositories/) - Google Cloud Source Repositories provides Git version control to support collaborative development of any application or service, including those that run on App Engine and Compute Engine.
 * [Keybase](https://keybase.io/blog/encrypted-git-for-everyone) - Every now and then you want to make a repository that's private. Not for an open source project, but for other stuff: research, writing a novel, family history, or a community's private files.
