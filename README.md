@@ -28,7 +28,6 @@ Install it yourself on your own server for fun and profit.
 
 ### Go
 
-* [GitLab](https://about.gitlab.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - GitLab is the first single application for all stages of the DevOps lifecycle.
 * [Gogs](https://gogs.io/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - A painless self-hosted Git service.
   * [Gitea](https://gitea.io/en-US/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - Gitea is a community managed fork of Gogs, lightweight code hosting solution written in Go and published under the MIT license.
 * [HGKeeper](https://keep.imfreedom.org/grim/hgkeeper) [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL%203.0-brightgreen)](https://opensource.org/licenses/AGPL-3.0) **No Git** **+Mercurial** - HGKeeper is a simple [Mercurial](mercurial-scm.org/) repository hosting tool that supports HTTP pulling and SSH pushing. Authentication is done via SSH keys and is fully configurable via [Casbin](https://casbin.org/).
