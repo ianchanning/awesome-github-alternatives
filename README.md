@@ -92,7 +92,7 @@ Fully independent from centralised hosts. Peer-to-Peer, hosted on each clients d
 ### Rust
 
 * [Radicle](https://radicle.xyz/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) - Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git.
-
+* [ngit-cli](https://github.com/DanConwayDev/ngit-cli)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DanConwayDev/ngit-cli?tab=MIT-1-ov-file#readme) - cli for a nostr based github alternative for FOSS repositories
 
 Full credit for the initial idea and list goes to [sam_goody on HN](https://news.ycombinator.com/item?id=17254141).
 
